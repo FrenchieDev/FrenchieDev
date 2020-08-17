@@ -26,8 +26,10 @@ Ruby  |  Rails
 <img src="https://raw.githubusercontent.com/FrenchieDev/FrenchieDev/master/Badges/Ruby.png" height="90" width="100"/> | <img src="https://raw.githubusercontent.com/FrenchieDev/FrenchieDev/master/Badges/RubyOnRails.png" height="100" width="100"/>
 
 ### <img src="https://raw.githubusercontent.com/FrenchieDev/FrenchieDev/master/FrenchieStuff/FrenchieLike.gif" width="75"> My work so far... 
-CALCULATOR  |  STRIKE THE KNIGHT  |  MARIO KART  | POKEDEX | GALLERY | ALGORITHM 
+
+CALCULATOR  | THE KNIGHT  |  MARIO KART  | POKEDEX | GALLERY | ALGORITHM 
 --- | --- | --- | --- | --- | --- 
+<img src="https://raw.githubusercontent.com/FrenchieDev/FrenchieDev/master/Projects/Calculator.png" width="120" height="120"> | <img src="https://raw.githubusercontent.com/FrenchieDev/FrenchieDev/master/Projects/StrikeTheKnight.png" width="120" height="120">| <img src="https://raw.githubusercontent.com/FrenchieDev/FrenchieDev/master/Projects/MarioKart.png" width="120" height="120">| <img src="https://raw.githubusercontent.com/FrenchieDev/FrenchieDev/master/Projects/Pokedex.png" width="120" height="120"> | <img src="https://raw.githubusercontent.com/FrenchieDev/FrenchieDev/master/Projects/AboutMe.png" width="120" height="120"> | <img src="https://raw.githubusercontent.com/FrenchieDev/FrenchieDev/master/Projects/Algorithm.png" width="120" height="120"> 
 HTML/CSS/JS | HTML/CSS/JS | HTML/CSS | HTML/CSS/JS | HTML/CSS | JS 
 
 
