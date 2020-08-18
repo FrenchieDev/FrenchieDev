@@ -6,8 +6,8 @@
 ### <img src="https://raw.githubusercontent.com/FrenchieDev/FrenchieDev/master/FrenchieStuff/FrenchieHat.gif" width="75"> About me. 
 ```javascript
 const FrenchieDev = {
-  about: "I’m a Internationalist and a Web Developer, currently focusing on React
-  and FrontEnd development",
+  about: "I’m a Internationalist and a Web Developer, currently focusing
+  on React and FrontEnd development",
   realName: "Kharl",
   pronouns: "he" | "him",
   country: "Venezuela",
