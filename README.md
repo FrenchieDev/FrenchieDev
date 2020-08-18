@@ -1,9 +1,8 @@
 
 <h1 align="center">Hello World, I'm <a href="https://twitter.com/FrenchieDev" target="_blank">FrenchieDev</a> <img src="https://raw.githubusercontent.com/FrenchieDev/FrenchieDev/master/FrenchieStuff/FrenchieLick.gif" width="75" /> :computer:</h1>
 
-<img align='right' src="https://raw.githubusercontent.com/FrenchieDev/FrenchieDev/master/FrenchieDev.jpeg" width="250">
+### <img src="https://raw.githubusercontent.com/FrenchieDev/FrenchieDev/master/FrenchieStuff/FrenchieHat.gif" width="75"> About me.<img align='right' src="https://raw.githubusercontent.com/FrenchieDev/FrenchieDev/master/FrenchieDev.jpeg" width="250">
 
-### <img src="https://raw.githubusercontent.com/FrenchieDev/FrenchieDev/master/FrenchieStuff/FrenchieHat.gif" width="75"> About me. 
 ```javascript
 const FrenchieDev = {
   about: "I’m a Internationalist and a Web Developer, currently focusing
